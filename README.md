@@ -1,9 +1,7 @@
 ## Hello World! 
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Estudando: front-end e back-end
+- 🌱 Estudando front-end e back-end
 
 <div align="center">
   <a href="https://github.com/PPedrosouza">
