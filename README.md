@@ -1,7 +1,8 @@
 ## Hello World! 
 
-- 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Estudando front-end e back-end
+- ⌨️ Hoje trabalho com front-end e back-end 🖥️
+- 📕 Estudando front-end e back-end 📚
+- 🍕 Amo pizza de brócolis!🥦
 
 <div align="center">
   <a href="https://github.com/PPedrosouza">
@@ -14,7 +15,7 @@
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-PHP" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Pedro-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Pedro-Java" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
 ##
