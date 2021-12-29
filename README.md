@@ -1,6 +1,5 @@
 ## Hello World! 
 
-- ⌨️ Hoje trabalho com front-end e back-end 🖥️
 - 📕 Estudando front-end e back-end 📚
 - 🍕 Amo pizza de brócolis!🥦
 
