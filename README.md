@@ -1,7 +1,7 @@
 ## Hello World! 
 
-- 📕 Estudando front-end e back-end 📚
-- 🍕 Amo pizza de brócolis!🥦
+- 📕 Studying front-end & back-end 📚
+- 🍕 I LOVE broccoli pizza!🥦
 
 <div align="center">
   <a href="https://github.com/PPedrosouza">
