@@ -2,6 +2,7 @@
 
 - 📕 Working as front-end & back-end developer on IATec
 - 🍕 I LOVE broccoli pizza!
+- :brazil:
 
 <div style="display: inline_block">
   <a href="https://github.com/PPedrosouza">
