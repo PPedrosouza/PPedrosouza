@@ -20,7 +20,7 @@
 ##
   <a>Follow me!</a>
   <div>
-  <a href="https://www.linkedin.com/in/pedro-antonio-olegário-de-souza-a093021b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/pedro-antonio-olegário-de-souza-a093021b9/](https://www.linkedin.com/in/pedro-olegario/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   </div>
 
