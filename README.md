@@ -10,13 +10,6 @@
  ⚡ Fullstack Development Student at Rocketseat<br>
 </div>
 
-<div align="center">
-  <a href="https://github.com/PPedrosouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PPedrosouza&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPedrosouza&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
-
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
   <img alt="Lari-Laravel" src="https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=%23FF2D20">&nbsp;  
